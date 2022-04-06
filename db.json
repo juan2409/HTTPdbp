@@ -8,7 +8,7 @@
     {
       "id": 2,
       "nombre": "Tarea Sistemas de Información",
-      "completada": "false"
+      "completada": false
     },
     {
       "id": 3,
