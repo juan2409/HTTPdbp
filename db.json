@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Taller 4 ReactJS",
-      "completada": "true"
+      "completada": true
     },
     {
       "id": 2,
@@ -13,42 +13,42 @@
     {
       "id": 3,
       "nombre": "Parcial probabilidad",
-      "completada": "true"
+      "completada": true
     },
     {
       "id": 4,
       "nombre": "Diseño HCI",
-      "completada": "false"
+      "completada": false
     },
     {
       "id": 5,
       "nombre": "Establecer arquitectura",
-      "completada": "true"
+      "completada": true
     },
     {
       "id": 6,
       "nombre": "Proyecto ReactJS",
-      "completada": "false"
+      "completada": false
     },
     {
       "id": 7,
       "nombre": "Curso de Python",
-      "completada": "true"
+      "completada": true
     },
     {
       "id": 8,
       "nombre": "Limpiar PC",
-      "completada": "false"
+      "completada": false
     },
     {
       "id": 9,
       "nombre": "Comprar comida",
-      "completada": "true"
+      "completada": true
     },
     {
       "id": 10,
       "nombre": "Tanquear el carro",
-      "completada": "false"
+      "completada": false
     }
   ]
 }
